@@ -1,9 +1,9 @@
 ---
-layout: essay
-link: 主页链接
+layout: poetry
+link: 诗歌排版
 title: 页面标题
 date: 2017-12-31 15:46
-abstract: 简介"
+abstract: 简介
 comments: true
 external-url:
 categories: 类别
